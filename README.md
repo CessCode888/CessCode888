@@ -9,7 +9,6 @@
 - 🎨 **UI/UX Designer** with experience in **Figma** and **responsive web design**.
 - 🔧 Experienced in **React**, **Python**, **FastAPI**, and **PostgreSQL**.
 - 🎯 **Scrum Master** with leadership experience in **agile methodologies**.
-- 📚 Constantly learning new tools, currently mastering **GraphQL** and **Next.js**.
 - 👩‍💻 Strong believer in **user-centered design** and **clean code**.
 
 ---
