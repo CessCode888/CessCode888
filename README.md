@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Chantal!</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Enthusiast </h3>
-
+<h1 align="">Hi there 👋, I'm Chantal!</h1>
+<h3 align="">Full-Stack Developer | UI/UX Enthusiast </h3>
 
 ---
-
 <h2> 🚀 About Me </h2>
 
 - 🌍 Based in **Costa Rica**.
@@ -40,26 +38,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
----
 
-<h2> 📂 Working on... </h2>
-
-- **[Pilates Booking App](#)**: An app for booking Pilates classes, designed for small businesses. Built with **React**, **Python**, **FastAPI**, and **PostgreSQL**.
-
----
-
-
-<h2> 🤝 Let's Connect! </h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/cesiamontenegro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/CessCode888" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">💡 "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs 💡</p>
