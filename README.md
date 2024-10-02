@@ -2,7 +2,7 @@
 <h3 align="">Full-Stack Developer | UI/UX Enthusiast </h3>
 
 ---
-<h2> 🚀 About Me </h2>
+<h2> About Me </h2>
 
 - 🌍 Based in **Costa Rica**.
 - 💼 Currently working on **Pilates Booking App** for a small business.
