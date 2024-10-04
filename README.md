@@ -1,7 +1,7 @@
 <h1 align="">Hi there 👋, I'm Chantal!</h1>
 <h3 align="">Full-Stack Developer | UI/UX Enthusiast </h3>
 
----
+
 <h2> About Me </h2>
 
 - 🌍 Based in **Costa Rica**.
@@ -11,7 +11,7 @@
 - 🎯 **Scrum Master** with leadership experience in **agile methodologies**.
 - 👩‍💻 Strong believer in **user-centered design** and **clean code**.
 
----
+
 
 <h2> 💻 Tech Stack </h2>
 
