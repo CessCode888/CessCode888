@@ -5,7 +5,6 @@
 <h2> About Me </h2>
 
 - 🌍 Based in **Costa Rica**.
-- 💼 Currently working on **Pilates Booking App** for a small business.
 - 🎨 **UI/UX Designer** with experience in **Figma** and **responsive web design**.
 - 🔧 Experienced in **React**, **Python**, **FastAPI**, and **PostgreSQL**.
 - 🎯 **Scrum Master** with leadership experience in **agile methodologies**.
